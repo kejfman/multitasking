@@ -26,12 +26,16 @@ procedure Main is
    Sem12Empty:Aliased Semafor_binarny(1);
    Sem12Full:Aliased Semafor_binarny(1);
 
+   --// tablica przechowujaca losowosc na wezlach server-bufor-broker-bifor-client
+   Type tablica is array(1..2) of Float;
+   T : tablica := (0.2,0.5);
 
    task body Serwer is
       idw, z, x:Integer;
       p:Float;  -- zmienna przechowujaca prawdopodobienstwo
       G:Generator;
       time:Float;
+      y:Short_Float;
    begin
       idw:=id;
       Reset(G,idw);
@@ -43,7 +47,7 @@ procedure Main is
 
          p:=Random(G);
          if idw = 1 then
-            if p < 0.15 then
+            if p < T(1) then
                Buff:=B11'Access;
                Sem:=Sem11'Access;
                SemE:=Sem11Empty'Access;
@@ -59,7 +63,7 @@ procedure Main is
 
             end if;
          elsif idw = 2 then
-            if p < 0.5 then
+            if p < t(2) then
                Buff:=B11'Access;
                Sem:=Sem11'Access;
                SemE:=Sem11Empty'Access;
@@ -76,8 +80,8 @@ procedure Main is
             end if;
          end if;
 
-
-         Put_line(" Serwer"&integer'image(idw)& " wybral bufor " &integer'image(z));
+         y:=Short_Float(p);
+         Put_line(" Serwer"&integer'image(idw)& " wybral bufor " &integer'image(z)& " bo p="&Short_Float'Image(y));
 
          if pelny(Buff) then
             Put_line("Serwer"&integer'image(idw)& " zawieszony na semaforze bufora ("&integer'image(z)&")");

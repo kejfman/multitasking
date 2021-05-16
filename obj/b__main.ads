@@ -37,7 +37,7 @@ package ada_main is
    pragma Export (C, main, "main");
 
    type Version_32 is mod 2 ** 32;
-   u00001 : constant Version_32 := 16#4ef3223a#;
+   u00001 : constant Version_32 := 16#eab2bc0c#;
    pragma Export (C, u00001, "mainB");
    u00002 : constant Version_32 := 16#67c8d842#;
    pragma Export (C, u00002, "system__standard_libraryB");
@@ -409,30 +409,42 @@ package ada_main is
    pragma Export (C, u00185, "system__concat_6B");
    u00186 : constant Version_32 := 16#e067ac8a#;
    pragma Export (C, u00186, "system__concat_6S");
-   u00187 : constant Version_32 := 16#7d29cee1#;
-   pragma Export (C, u00187, "system__tasking__stagesB");
-   u00188 : constant Version_32 := 16#6153a6f3#;
-   pragma Export (C, u00188, "system__tasking__stagesS");
-   u00189 : constant Version_32 := 16#8f461df5#;
-   pragma Export (C, u00189, "text_ioS");
-   u00190 : constant Version_32 := 16#f4e097a7#;
-   pragma Export (C, u00190, "ada__text_ioB");
-   u00191 : constant Version_32 := 16#03e83e15#;
-   pragma Export (C, u00191, "ada__text_ioS");
-   u00192 : constant Version_32 := 16#73d2d764#;
-   pragma Export (C, u00192, "interfaces__c_streamsB");
-   u00193 : constant Version_32 := 16#b1330297#;
-   pragma Export (C, u00193, "interfaces__c_streamsS");
-   u00194 : constant Version_32 := 16#ec9c64c3#;
-   pragma Export (C, u00194, "system__file_ioB");
-   u00195 : constant Version_32 := 16#95d1605d#;
-   pragma Export (C, u00195, "system__file_ioS");
-   u00196 : constant Version_32 := 16#cf3f1b90#;
-   pragma Export (C, u00196, "system__file_control_blockS");
-   u00197 : constant Version_32 := 16#eca5ecae#;
-   pragma Export (C, u00197, "system__memoryB");
-   u00198 : constant Version_32 := 16#6bdde70c#;
-   pragma Export (C, u00198, "system__memoryS");
+   u00187 : constant Version_32 := 16#8f828546#;
+   pragma Export (C, u00187, "system__img_realB");
+   u00188 : constant Version_32 := 16#ad3b16aa#;
+   pragma Export (C, u00188, "system__img_realS");
+   u00189 : constant Version_32 := 16#36373acb#;
+   pragma Export (C, u00189, "system__fat_llfS");
+   u00190 : constant Version_32 := 16#54da27e6#;
+   pragma Export (C, u00190, "system__img_lluB");
+   u00191 : constant Version_32 := 16#25a6f3e9#;
+   pragma Export (C, u00191, "system__img_lluS");
+   u00192 : constant Version_32 := 16#62d0e74f#;
+   pragma Export (C, u00192, "system__powten_tableS");
+   u00193 : constant Version_32 := 16#7d29cee1#;
+   pragma Export (C, u00193, "system__tasking__stagesB");
+   u00194 : constant Version_32 := 16#6153a6f3#;
+   pragma Export (C, u00194, "system__tasking__stagesS");
+   u00195 : constant Version_32 := 16#8f461df5#;
+   pragma Export (C, u00195, "text_ioS");
+   u00196 : constant Version_32 := 16#f4e097a7#;
+   pragma Export (C, u00196, "ada__text_ioB");
+   u00197 : constant Version_32 := 16#03e83e15#;
+   pragma Export (C, u00197, "ada__text_ioS");
+   u00198 : constant Version_32 := 16#73d2d764#;
+   pragma Export (C, u00198, "interfaces__c_streamsB");
+   u00199 : constant Version_32 := 16#b1330297#;
+   pragma Export (C, u00199, "interfaces__c_streamsS");
+   u00200 : constant Version_32 := 16#ec9c64c3#;
+   pragma Export (C, u00200, "system__file_ioB");
+   u00201 : constant Version_32 := 16#95d1605d#;
+   pragma Export (C, u00201, "system__file_ioS");
+   u00202 : constant Version_32 := 16#cf3f1b90#;
+   pragma Export (C, u00202, "system__file_control_blockS");
+   u00203 : constant Version_32 := 16#eca5ecae#;
+   pragma Export (C, u00203, "system__memoryB");
+   u00204 : constant Version_32 := 16#6bdde70c#;
+   pragma Export (C, u00204, "system__memoryS");
 
    --  BEGIN ELABORATION ORDER
    --  ada%s
@@ -453,6 +465,7 @@ package ada_main is
    --  system.crtl%s
    --  interfaces.c_streams%s
    --  interfaces.c_streams%b
+   --  system.powten_table%s
    --  system.restrictions%s
    --  system.restrictions%b
    --  system.storage_elements%s
@@ -470,6 +483,8 @@ package ada_main is
    --  system.traceback_entries%s
    --  system.traceback_entries%b
    --  system.unsigned_types%s
+   --  system.img_llu%s
+   --  system.img_llu%b
    --  system.img_uns%s
    --  system.img_uns%b
    --  system.wch_con%s
@@ -564,12 +579,15 @@ package ada_main is
    --  ada.streams%b
    --  interfaces.c.strings%s
    --  interfaces.c.strings%b
+   --  system.fat_llf%s
    --  system.file_control_block%s
    --  system.finalization_root%s
    --  system.finalization_root%b
    --  ada.finalization%s
    --  system.file_io%s
    --  system.file_io%b
+   --  system.img_real%s
+   --  system.img_real%b
    --  system.multiprocessors%s
    --  system.multiprocessors%b
    --  system.os_interface%s
