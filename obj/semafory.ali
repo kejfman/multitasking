@@ -1,0 +1,85 @@
+V "GNAT Lib v2020"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV SIMPLE_BARRIERS
+RV NO_EXCEPTION_HANDLERS
+RV NO_EXCEPTION_PROPAGATION
+RV NO_EXCEPTIONS
+RV NO_PROTECTED_TYPES
+RV NO_STANDARD_STORAGE_POOLS
+RV NO_IMPLEMENTATION_PRAGMAS
+RV MAX_PROTECTED_ENTRIES=1
+
+U semafory%b		semafory.adb		5d7e1067 NE OO PK
+Z ada.tags%s		a-tags.adb		a-tags.ali
+Z system%s		system.ads		system.ali
+Z system.soft_links%s	s-soflin.adb		s-soflin.ali
+Z system.tasking.protected_objects%s  s-taprob.adb  s-taprob.ali
+Z system.tasking.protected_objects.entries%s  s-tpoben.adb  s-tpoben.ali
+Z system.tasking.protected_objects.operations%s  s-tpobop.adb  s-tpobop.ali
+
+U semafory%s		semafory.ads		80cb059b EE NE OO PK
+Z ada.exceptions%s	a-except.adb		a-except.ali
+Z ada.tags%s		a-tags.adb		a-tags.ali
+Z system%s		system.ads		system.ali
+Z system.tasking%s	s-taskin.adb		s-taskin.ali
+Z system.tasking.protected_objects%s  s-taprob.adb  s-taprob.ali
+Z system.tasking.protected_objects.entries%s  s-tpoben.adb  s-tpoben.ali
+
+D ada.ads		20200819050644 76789da1 ada%s
+D a-except.ads		20200819050644 a7106115 ada.exceptions%s
+D a-finali.ads		20200819050644 bf4f806b ada.finalization%s
+D a-stream.ads		20200819050644 119b8fb3 ada.streams%s
+D a-tags.ads		20200819050644 edddc8f0 ada.tags%s
+D a-unccon.ads		20200819050644 0e9b276f ada.unchecked_conversion%s
+D interfac.ads		20200819050646 5ab55268 interfaces%s
+D i-c.ads		20200819050646 c624fa43 interfaces.c%s
+D i-cstrin.ads		20200819050646 341d0ddf interfaces.c.strings%s
+D semafory.ads		20210516155810 80cb059b semafory%s
+D semafory.adb		20210516155810 ddb515fc semafory%b
+D system.ads		20200819050648 32a08138 system%s
+D s-atacco.ads		20200819050646 4c36d12f system.address_to_access_conversions%s
+D s-exctab.ads		20200819050646 54135002 system.exception_table%s
+D s-finroo.ads		20200819050646 4ff27390 system.finalization_root%s
+D s-multip.ads		20200819050646 38ac9f73 system.multiprocessors%s
+D s-osinte.ads		20200819050642 97504df8 system.os_interface%s
+D s-parame.ads		20200819050648 4752c4cb system.parameters%s
+D s-secsta.ads		20200819050648 9b3ab94b system.secondary_stack%s
+D s-soflin.ads		20200819050648 a7318a92 system.soft_links%s
+D s-stache.ads		20200819050648 a37c21ec system.stack_checking%s
+D s-stausa.ads		20200819050648 017a0a05 system.stack_usage%s
+D s-stalib.ads		20200819050648 6b7a13f2 system.standard_library%s
+D s-stoele.ads		20200819050648 2dc34a04 system.storage_elements%s
+D s-tasinf.ads		20200819050642 601f6b72 system.task_info%s
+D s-taspri.ads		20200819050642 6c1d93d4 system.task_primitives%s
+D s-taskin.ads		20200819050642 88fba9ad system.tasking%s
+D s-taprob.ads		20200819050642 acd6094d system.tasking.protected_objects%s
+D s-tpoben.ads		20200819050642 60ad3dae system.tasking.protected_objects.entries%s
+D s-tpobop.ads		20200819050642 5f548bb3 system.tasking.protected_objects.operations%s
+D s-traent.ads		20200819050648 005bf670 system.traceback_entries%s
+D s-unstyp.ads		20200819050648 5ecf7212 system.unsigned_types%s
+D s-win32.ads		20200819050648 15ac53fb system.win32%s
+G a e
+G c Z s b [pb semafory__semafor_binarny 6 11 none]
+G c Z s b [vb semafory__semafor_binarny 7 15 none]
+G c Z s b [semafor_binarny__vbN semafory 7 5 none]
+G c Z s b [semafor_binarny__vbP semafory 7 5 none]
+G c Z s s [semafor_binarnyVDI semafory 5 3 none]
+G c Z s s [semafor_binarnyVDF semafory 5 3 none]
+G c Z s s [semafor_binarnyVIP semafory 5 3 none]
+X 10 semafory.ads
+2K9*Semafory 12l5 12e13 11|2b14 17l5 17t13
+4I8*Wart_binarna<short_short_integer> 5r51 9r11
+5W18*Semafor_binarny 5d34 9E5 10l7 10e22 11|4b18 16l7 16t22
+5i34 Wart_poczatkowa{4I8} 9r27
+6Y11 PB 11|6b11 9l9 9t11
+7U15 VB 11|11b15 14l9 14t11
+9i5 Wart{4I8} 11|6r19 8r7 13r10 13r24
+X 22 s-stausa.ads
+208U14*Initialize 209i<c,__gnat_stack_usage_initialize>22
+273U14*Output_Results 277i<c,__gnat_stack_usage_output_results>22
+

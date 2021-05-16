@@ -1,0 +1,642 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file />
+    <file_marker column=" 1" line=" 2" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\stospackage.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\stosPackage.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\stospackage.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 174" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 2" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 174" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 2" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 9" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 11" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\programglowny.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 2" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 9" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 12" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\programglowny.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 9" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 174" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 9" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 174" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 9" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 3" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 9" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 20" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\programglowny.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 9" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 176" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 20" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\SEM95.ADB</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\SEM95.ADS</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\stosPackage.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\SEM95.ADB</vfs_file>
+    </file_marker>
+    <file_marker column=" 8" line=" 95" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 30" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 39" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\Randompackage.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\Randompackage.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\Randompackage.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 92" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 39" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 93" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 39" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 174" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 39" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 38" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 39" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 93" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 39" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 93" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 8" line=" 19" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\stospackage.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 9" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 8" line=" 19" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\stospackage.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 6" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 8" line=" 19" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 24" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 8" line=" 19" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 29" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 8" line=" 19" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 20" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 24" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 28" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 174" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 9" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 39" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 32" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 9" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 39" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 9" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 5" line=" 5" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\programglowny.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 25" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\SEM95.ADS</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 168" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 19" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 41" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 19" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 41" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 19" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 3" line=" 2" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\Semafory.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\Semafory.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 25" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 29" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 23" line=" 26" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 29" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 92" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 24" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\stospackage.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 2" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 143" line=" 88" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 83" line=" 40" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 24" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 28" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 24" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 32" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 14" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 78" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 24" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 85" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 82" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 10" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\stospackage.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 13" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\stospackage.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 82" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 3" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\stospackage.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 82" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 87" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 29" line=" 8" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\stospackage.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 9" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\stospackage.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 8" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\stospackage.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 37" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 8" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\stospackage.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 29" line=" 9" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\stospackage.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 8" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\stospackage.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 37" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 29" line=" 8" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\stospackage.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 37" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 24" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 2" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\stospackage.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 8" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\stospackage.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 169" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 170" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 155" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 160" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 100" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 114" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 101" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 114" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 159" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 39" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 159" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 14" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 160" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 159" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 149" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 19" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 8" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 159" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 87" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 9" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 3" line=" 14" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 87" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 9" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 79" line=" 40" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 39" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 40" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 39" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 32" line=" 50" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 39" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 43" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 93" line=" 88" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 8" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 93" line=" 88" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 86" line=" 160" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 5" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\stospackage.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 133" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\programglowny.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 36" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\programglowny.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 34" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\programglowny.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 36" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\programglowny.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 34" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\programglowny.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 36" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\programglowny.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 34" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\programglowny.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Grzegorz Makowski\Documents\Ada\multitaskinggm.gpr</vfs_project>
+      <vfs_file>C:\Users\Grzegorz Makowski\Documents\Ada\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
