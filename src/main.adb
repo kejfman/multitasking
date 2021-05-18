@@ -204,12 +204,12 @@ procedure Main is
       -- Put_line("<<-->> Serwer"&integer'image(idw)& " wybral bufor " &integer'image(z));
 
       if pelny(Buff) then
-              Put_line("<<--x Serwer "&integer'image(idw)&" trafil na pelny bufor ["&integer'image(z)&"]");
+              Put_line("<<--x Serwer "&integer'image(idw)&" trafil na pelny bufor ["&integer'image(z)&"].");
               SemF.PB;
             else
               Sem.PB;
               wstaw(Buff,x);
-              Put_line("<<--- Serwer "&integer'image(idw)&" wstawil do bufora ["&integer'image(z)&"] liczbe '"&Integer'image(x)&"' i odwiesza semafor bufora");
+              Put_line("<<--- Serwer "&integer'image(idw)&" wstawil do bufora ["&integer'image(z)&"] liczbe '"&Integer'image(x)&"' i odwiesza semafor bufora.");
               Sem.VB;
               SemE.VB;
             end if;
@@ -227,7 +227,7 @@ begin
   idw:=id;
   Reset(G,idw);
   loop
-    Time:=Random(G) * 2.0;
+    Time:=Random(G) * 5.0;
     Delay(Duration(Time));
     p:=Random(G);
     if idw = 1 then
@@ -345,7 +345,7 @@ begin
     -- Put_line("<<->> Posrednik "&integer'image(idw)&" wybral bufor do pobrania ["&integer'image(z)&"]");
 
         if Pusty(Buff) then
-          Put_line("<<x>> Posrednik "&integer'image(idw)&" chcial pobrac i trafil na pusty bufor ["&integer'image(z)&"]");
+          Put_line("<<x>> Posrednik "&integer'image(idw)&" chcial pobrac i trafil na pusty bufor ["&integer'image(z)&"].");
           SemE.PB;
         else
           Sem.PB;
@@ -354,7 +354,7 @@ begin
           Sem.VB;
           SemF.VB;
         end if;
-       Time:=Random(G) * 2.0;
+       Time:=Random(G) * 5.0;
        Delay(Duration(Time));
        p:=Random(G);
 
@@ -453,12 +453,12 @@ begin
       -- Put_line("<<->> Posrednik "&integer'image(idw)& " wybral do wstawienia bufor ["&integer'image(z)&"]");
 
       if pelny(Buff) then
-              Put_line("<<x>> Posrednik "&integer'image(idw)&" chcial wstawic do pelnego bufora ["&integer'image(z)&"]");
+              Put_line("<<x>> Posrednik "&integer'image(idw)&" chcial wstawic do pelnego bufora ["&integer'image(z)&"].");
               SemF.PB;
             else
               Sem.PB;
               wstaw(Buff,x);
-              Put_line("<<->> Posrednik "&integer'image(idw)&" wstawil do bufora ["&integer'image(z)&"] liczbe '"&Integer'image(x)&"' i odwiesza semafor w bufora.");
+              Put_line("<<->> Posrednik "&integer'image(idw)&" wstawil do bufora ["&integer'image(z)&"] liczbe '"&Integer'image(x)&"' i odwiesza semafor bufora.");
               Sem.VB;
               SemE.VB;
             end if;
@@ -474,9 +474,9 @@ G:Generator;
 time:Float;
 begin
   idw:=id;
-  Reset(G,idw);
+  Reset(G);
   loop
-    Time:=Random(G) * 5.0;
+    Time:=Random(G) * 10.0;
     Delay(Duration(Time));
     p:=Random(G);
     if idw = 1 then
@@ -573,7 +573,7 @@ begin
     -- Put_line("--->> Klient "&integer'image(idw)&" wybral bufor ["&integer'image(z)&"]");
 
         if Pusty(Buff) then
-          Put_line("x-->> Klient "&integer'image(idw)&" trafil na pusty bufor ["&integer'image(z)&"]");
+          Put_line("x-->> Klient "&integer'image(idw)&" chcial pobrac z pustego bufora ["&integer'image(z)&"].");
           SemE.PB;
         else
           Sem.PB;

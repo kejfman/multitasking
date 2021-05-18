@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Locations >
   <Project >
-    <file_marker column=" 12" line=" 587" >
+    <file_marker column=" 21" line=" 596" >
       <vfs_project>C:\Users\Grzegorz Makowski\Documents\Ada\multitaskinggm.gpr</vfs_project>
       <vfs_file>C:\Users\Grzegorz Makowski\Documents\Ada\src\main.adb</vfs_file>
     </file_marker>
@@ -13,45 +13,17 @@
       <vfs_project>C:\Users\Grzegorz Makowski\Documents\Ada\multitaskinggm.gpr</vfs_project>
       <vfs_file>C:\Users\Grzegorz Makowski\Documents\Ada\src\Semafory.ads</vfs_file>
     </file_marker>
-    <file_marker column=" 1" line=" 21" >
+    <file_marker column=" 1" line=" 22" >
       <vfs_project>C:\Users\Grzegorz Makowski\Documents\Ada\multitaskinggm.gpr</vfs_project>
       <vfs_file>C:\Users\Grzegorz Makowski\Documents\Ada\src\stospackage.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 28" line=" 589" >
+    <file_marker column=" 34" line=" 168" >
       <vfs_project>C:\Users\Grzegorz Makowski\Documents\Ada\multitaskinggm.gpr</vfs_project>
       <vfs_file>C:\Users\Grzegorz Makowski\Documents\Ada\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 26" line=" 78" >
+    <file_marker current="true" column=" 20" line=" 10" >
       <vfs_project>C:\Users\Grzegorz Makowski\Documents\Ada\multitaskinggm.gpr</vfs_project>
-      <vfs_file>C:\Users\Grzegorz Makowski\Documents\Ada\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 18" line=" 81" >
-      <vfs_project>C:\Users\Grzegorz Makowski\Documents\Ada\multitaskinggm.gpr</vfs_project>
-      <vfs_file>C:\Users\Grzegorz Makowski\Documents\Ada\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 40" line=" 86" >
-      <vfs_project>C:\Users\Grzegorz Makowski\Documents\Ada\multitaskinggm.gpr</vfs_project>
-      <vfs_file>C:\Users\Grzegorz Makowski\Documents\Ada\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 14" line=" 83" >
-      <vfs_project>C:\Users\Grzegorz Makowski\Documents\Ada\multitaskinggm.gpr</vfs_project>
-      <vfs_file>C:\Users\Grzegorz Makowski\Documents\Ada\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 20" line=" 449" >
-      <vfs_project>C:\Users\Grzegorz Makowski\Documents\Ada\multitaskinggm.gpr</vfs_project>
-      <vfs_file>C:\Users\Grzegorz Makowski\Documents\Ada\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 14" line=" 83" >
-      <vfs_project>C:\Users\Grzegorz Makowski\Documents\Ada\multitaskinggm.gpr</vfs_project>
-      <vfs_file>C:\Users\Grzegorz Makowski\Documents\Ada\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 29" line=" 460" >
-      <vfs_project>C:\Users\Grzegorz Makowski\Documents\Ada\multitaskinggm.gpr</vfs_project>
-      <vfs_file>C:\Users\Grzegorz Makowski\Documents\Ada\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker current="true" column=" 1" line=" 456" >
-      <vfs_project>C:\Users\Grzegorz Makowski\Documents\Ada\multitaskinggm.gpr</vfs_project>
-      <vfs_file>C:\Users\Grzegorz Makowski\Documents\Ada\src\main.adb</vfs_file>
+      <vfs_file>C:\Users\Grzegorz Makowski\Documents\Ada\src\stospackage.adb</vfs_file>
     </file_marker>
   </Project>
 </Locations>

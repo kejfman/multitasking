@@ -7,6 +7,6 @@ package stosPackage is
 	    end record;
 	 procedure wstaw(s: Access stosStruktura; x:in Integer);
 	 procedure pobierz(s: Access stosStruktura; x:out Integer);
-	 function pelny (S:Access stosStruktura) return boolean; 
-	 function Pusty (S:Access stosStruktura) return boolean;
+	 function pelny (s:Access stosStruktura) return boolean; 
+	 function Pusty (s:Access stosStruktura) return boolean;
  end stosPackage; 
